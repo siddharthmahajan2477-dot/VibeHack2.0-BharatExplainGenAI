@@ -1,0 +1,8 @@
+{
+  "name": "BharatExplain AI",
+  "description": "An intelligent assistant designed to explain complex Bharat topics (exams, policies, laws, tech) to common citizens and students.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
